@@ -13,3 +13,11 @@ Footdle é um jogo web no estilo "guesser", no qual o usuário deve tentar advin
 - Go
 
 > # MVP finalizado 😁
+
+#### Advinhando o jogador 🔎
+
+![guessing-player](../images/footdle-advinhando-jogador.gif)
+
+#### Editando um jogador 💾
+
+![editando-jogador](../images/footdle-editandojogador.gif)
